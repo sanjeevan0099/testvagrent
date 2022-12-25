@@ -1,3 +1,6 @@
+language used : python
+
+
 // input 1
 input : 40
 out put : 
